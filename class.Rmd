@@ -1,0 +1,17 @@
+---
+title: "oct-22-19"
+author: "Bridger Gordon"
+date: "10/22/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+```
+
+## Title
+
+```{r}
+
+```
